@@ -1,0 +1,2 @@
+TECHNICALS :This is the file of project
+OS:Windows 7 ultimate(64 bit) Ram:4gb
